@@ -1,8 +1,8 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Hoy en día, los medicamentos para bajar de peso se perciben como una parte absolutamente integral de nuestra vida."
-  content : "¡La droga es una acción compleja y poderosa! Asesino del apetito! Da excelentes resultados de larga duración."
+  title : "El medicamento tiene como objetivo bloquear la síntesis de grasas, reducir la grasa corporal y acelerar los procesos metabólicos."
+  content : "Debido a la alta concentración de ingredientes activos, en el proceso de tomar las cápsulas, se produce una rápida pérdida de peso y una disminución del volumen corporal en las áreas problemáticas."
   image : "images/banner.png"
   # button
   button:
@@ -68,7 +68,7 @@ advantage:
 video:
   enable : true
   title : "Cómo utilizar el producto?"
-  content : "Dado que la droga estimula la eliminación de toxinas y productos de desecho, consuma tanta agua limpia como sea posible. También estimula la oxigenación de la piel y ayuda a evitar la aparición de flacidez con pérdida de volumen corporal importante."
+  content : "El medicamento tiene la fórmula de última generación y es un producto más efectivo que los análogos similares en el mercado."
   videoThumb : "images/video-thumb.jpg"
   videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
 
@@ -89,26 +89,20 @@ testimonial:
     - name : "Florentina Villca"
       image : "images/clients/client-1.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Me gustó la crema, veo el resultado y por eso les aconsejo a todos!"
+      content : "¡Perdí cuatro kilos en siete días! ¡Incluso durante una visita activa al gimnasio, no obtuve tal resultado! ¡Recomiendo estas cápsulas a todo el mundo!"
       rating : "five" # rating star, one to five
       
     # testimonial item loop
     - name : "Ana Pankara"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "No tomo la crema por primera vez. Satisfecho. Entro al complejo durante el día."
+      content : "Todos están agradecidos. Solo otro día, autoestima, no quería. Por la noche, el kumi tenía un día nacional, tuve que beber alcohol y beber unas onzas por la noche))))) El resultado es -0,6 kg. Déjalo, estoy bastante contento."
       rating : "three" # rating star, one to five
       
     # testimonial item loop
     - name : "Gektor Sucso"
       image : "images/clients/client-3.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Esta no es la primera vez que uso la crema, sin irritación, buenas sensaciones en la piel."
+      content : "Bloquean bien el apetito, creo que el resultado debería ser bueno. Intentaré darme de baja al final del curso."
       rating : "five" # rating star, one to five
-      
-    # testimonial item loop
-    - name : "Kalista Tankara"
-      image : "images/clients/client-2.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Se me acercó y realmente le gustó. La piel posterior es aterciopelada."
-      rating : "four" # rating star, one to five
+     
